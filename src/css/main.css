@@ -1,1 +1,21 @@
 /* Your CSS here. */
+.smallimg {
+    padding-top: 20px;
+    width: 100px;
+    height: auto;
+}
+.mainarea {
+    display: flex;
+    flex-direction: column;   
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 40px;
+    align-items: center;    
+    background-color: rgb(137, 67, 207);  
+    color: white;
+    padding: 20px;
+
+}
+.body {
+    
+}
